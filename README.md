@@ -1,0 +1,1 @@
+# rt-goose-game-kata
