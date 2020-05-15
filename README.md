@@ -24,10 +24,9 @@ java -cp classes org.rictocco.Main
 ## Usage
 
 The usage for the application:
-
-```
-java -cp classes org.rictocco.Main
-```
+To add a player type: "add player Pippo);
+To move a player type "move Pippo");
+To move a player specifying the dice: move Pippo 4, 2");
 
 ## Authors
 

@@ -46,9 +46,9 @@ public class GameConsole {
     }
 
     private void printInstructions() {
-        System.out.println("To add a player type: \"add player Pippo\".");
+        System.out.println("To add a player type: \"add player Pippo\"");
         System.out.println("To move a player type \"move Pippo\"");
-        System.out.println("To move a player specifying the dice: move Pippo 4, 2\". \n");
+        System.out.println("To move a player specifying the dice: move Pippo 4, 2\"\n");
     }
 
 }
