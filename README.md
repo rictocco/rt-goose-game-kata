@@ -16,9 +16,9 @@ JAVAHOME environment variable set
 Navigate to the project folder, and run the following commands:
 
 ```
-javac -d classes org\rictocco\*.java
+javac -d out src/org/rictocco/*.java
 
-java -cp classes org.rictocco.Main
+java -cp out org.rictocco.Main
 ```
 
 ## Usage
